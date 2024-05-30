@@ -2,13 +2,13 @@ h1 {
     text-align: center;
 }
 .container {
-    border: 3px solid green;
+    border: 3px solid peru;
     width: 160px;
     margin: 0 auto;
 }
 
 #screen {
-    background: green;
+    background: peru;
     color: white;
     text-align: right;
     padding: 10px;

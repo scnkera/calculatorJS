@@ -13,8 +13,8 @@ const buttonClicked = (event) => {
 };
 
 const clearButton = () => {
-    const scren = document.getElementById("screen");
-    screen.innerHTML = "0"l
+    const screen = document.getElementById("screen");
+    screen.innerHTML = "0";
 };
 
 const equalClicked = () => {
